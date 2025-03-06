@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Vitesh Thakre</h1>
 <h3 align="center">Software Engineer from India.</h3>
 
-<img align="right" alt="coding_gif" width="400" src = "https://miro.medium.com/max/724/1*lhOax3cZATGZwEhG0uTYRA.gif">
+<img align="right" alt="coding_gif" width="210" src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZndtOXZiMjE3MmliOGRmOHlqcnk3ZWFpbjl6Y2t1c2FtZmN4ODloMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viteshthakre&label=Profile%20views&color=0e75b6&style=flat" alt="viteshthakre" /> </p>
 
