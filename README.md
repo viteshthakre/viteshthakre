@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/viteshthakre](https://github.com/viteshthakre)
 
-- 💬 Ask me about **python, DSA, Java.**
+- 💬 Ask me about **Java, SQL, DSA, Python.**
 
 - 📫 How to reach me **viteshthakre08@gmail.com**
 
